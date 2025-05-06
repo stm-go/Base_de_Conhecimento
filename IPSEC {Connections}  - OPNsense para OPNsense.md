@@ -45,7 +45,7 @@ Repita na outra ponta invertendo os identificadores:
 
 | Campo              | Valor                              |
 |-------------------|-------------------------------------|
-| Local Address      | Interface WAN (`186.195.113.196`)  |
+| Local Address      | Interface WAN   |
 | Remote Address     | WAN da filial                      |
 | Description        | `VPN-STMGO-cliente01`              |
 | Authentication     | PSK                                |
